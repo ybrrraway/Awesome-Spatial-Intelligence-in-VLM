@@ -36,6 +36,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
+| <br/>[Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/pdf/2511.21688) | <img width="700" alt="image" src="imgs/V2LO.png"> | 2025-11 | [Github](https://github.com/ybrrraway/Video2Layout) |
 | <br/>[G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688) | <img width="700" alt="image" src="imgs/G2VLM.png"> | 2025-11 | [Github](https://gordonhu608.github.io/g2vlm.github.io/) |
 | <br/>[Abstract 3D Perception for Spatial Intelligence in Vision-Language Models](https://arxiv.org/pdf/2511.10946) | <img width="700" alt="image" src="imgs/SandBox.png"> | 2025-11 | - |
 | <br/>[Cambrian-S: Towards Spatial Supersensing in Video](https://arxiv.org/pdf/2511.04670) | <img width="700" alt="image" src="imgs/Cambrian-S.png"> | 2025-11 | [Github](https://cambrian-mllm.github.io/) |
